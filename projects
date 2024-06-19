@@ -27,7 +27,8 @@
 Here is an AI chatbot I created for home users to ask it questions for cybersecurity. I was able
 to create this chatbot and train it with many resources.
 </p>
-
+<iframe src="https://bot.orimon.ai/?tenantId=220ebd92-9963-4cdb-9751-27a72c5f6699&fullScreenBot=true" height="100%" width="100%" frameBorder="0" border="none"></iframe>
+        <script src="https://bot.orimon.ai/deploy/index.js" tenantId="220ebd92-9963-4cdb-9751-27a72c5f6699"></script>
 <p>
     The first project is this HTML website, I am building it as I learn and experiment different features
 that are available, however I want it to be simple to use.
