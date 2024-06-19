@@ -1,11 +1,47 @@
 <html>
+    <head>
+        <style>
+            h1 {
+                text-align: center;
+                color: white;
+                font-family: 'Times New Roman', Times, serif;
+                font-weight: bold;
+                
+            }
+        </style>
+      <h1> <u>Home Labs and Projects</u></h1> 
+        </head>
+        <body>
+            <style>
+                body{
+                    background-color:lightslategray;
+                    color: white;
+                    font-size: large;
+                    font-family: 'Times New Roman', Times, serif;
+                    font-weight: bold;
+                    text-align: left;
+                }
+            </style>
+            <h1 style="color: lightslategray;"> . </h1>
+    <p>
+Here is an AI chatbot I created for home users to ask it questions for cybersecurity. I was able
+to create this chatbot and train it with many resources.
+</p>
+
+<p>
+    The first project is this HTML website, I am building it as I learn and experiment different features
+that are available, however I want it to be simple to use.
 <body>
-Visual studio projects I created 
+    <ul>
+        I have learned on HTML so far:
+        <li>Aligning text,changing the font and font color</li>
+        <li>Making links clickable</li>
+        <li>Redirecting to another page with clicking image or text</li>
+<li>Making this list</li>
+    </ul>
+</p>
+    </body>
 
-
-
-
-</body>
 
 
 
